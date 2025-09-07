@@ -146,4 +146,17 @@ li.completed {
 }
 .footer-btns button:hover {
   background: #cc2e25;
+
+}
+.credit {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  font-size: 0.8rem;
+  color: #fff;
+  opacity: 0.7;
+  font-style: italic;
+}
+.credit:hover {
+  opacity: 1;
 }
